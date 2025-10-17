@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayItemValue", "DisplayItemValue\DisplayItemValue.csproj", "{2AF6EE80-2BF2-45F4-A8B6-22EE93FF7CC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveInventoryMod", "SaveInventoryMod\SaveInventoryMod.csproj", "{2AF6EE80-2BF2-45F4-A8B6-22EE93FF7CC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +32,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57347298-604F-482B-91C0-7048F20C2E8A}
 	EndGlobalSection
 EndGlobal
